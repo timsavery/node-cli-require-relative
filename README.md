@@ -5,7 +5,7 @@ A little helper module to require modules relative to entry script location. I h
 ## Installation
 
 ```
-npm install node-require-relative
+npm install require-relative
 ```
 
 ## License
