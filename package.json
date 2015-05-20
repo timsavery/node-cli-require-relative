@@ -1,5 +1,5 @@
 {
-  "name": "require-relative",
+  "name": "cli-require-relative",
   "version": "1.0.0",
   "description": "Helper module to require modules relative to entry script location.",
   "main": "index.js",
