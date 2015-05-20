@@ -1,0 +1,14 @@
+{
+  "name": "node-require-relative",
+  "version": "1.0.0",
+  "description": "Helper module to require modules relative to entry script location.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/jshint/bin/jshint *.js"
+  },
+  "author": "Tim Savery <tsavery@chathamfinancial.com> (https://github.com/timsavery)",
+  "license": "WTFPL",
+  "dependencies": {
+    "jshint": "^2.7.0"
+  }
+}
