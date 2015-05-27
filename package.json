@@ -7,7 +7,7 @@
     "test": "./node_modules/jshint/bin/jshint *.js"
   },
   "author": "Tim Savery <tim.savery@gmail.com> (https://github.com/timsavery)",
-  "license": "WTFPL",
+  "license": "MIT",
   "dependencies": {
     "jshint": "^2.7.0"
   }
